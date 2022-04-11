@@ -31,7 +31,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>${javafx.maven.plugin.version}</version>
                 <configuration>
-                    <mainClass>MyApp</mainClass>
+                    <mainClass>org.where.MyApp</mainClass>
                 </configuration>
             </plugin>
             <plugin>
