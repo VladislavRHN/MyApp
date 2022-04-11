@@ -31,4 +31,5 @@ public class MyApp extends Application {
         primaryStage.setScene(new Scene(root, 300, 250));
         primaryStage.show();
     }
+    //<version>${javafx.maven.plugin.version}</version>    //Версия плагина в <build>version</build>
 }
