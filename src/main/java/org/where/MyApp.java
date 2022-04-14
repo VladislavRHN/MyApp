@@ -32,4 +32,4 @@ public class MyApp extends Application {
         primaryStage.show();
     }
     //<version>${javafx.maven.plugin.version}</version>    //Версия плагина в <build>version</build>
-}
+}//
